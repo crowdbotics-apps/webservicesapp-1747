@@ -1,0 +1,3 @@
+rootProject.name = 'webservicesapp_1747'
+
+include ':app'
